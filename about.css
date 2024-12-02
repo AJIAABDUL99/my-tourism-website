@@ -1,0 +1,194 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  .navigation {
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .navigation-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  .navigation-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .hero-about {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-about img {
+    width: 100%;
+    height: auto;
+    filter: brightness(50%);
+  }
+  
+  .hero-content-about {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .hero-content-about h1 {
+    font-size: 48px;
+  }
+  
+  .mission {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .mission-vision {
+    margin-bottom: 30px;
+  }
+  
+  .mission-vision h1 {
+    font-size: 36px;
+    color: #4CAF50;
+    margin-bottom: 10px;
+  }
+  
+  .mission-vision p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  .team-title {
+    font-size: 36px;
+    text-align: center;
+    margin: 40px 0 20px;
+    color: #4CAF50;
+  }
+  
+  .our-team {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .team-member {
+    text-align: center;
+    margin: 20px;
+    width: 200px;
+  }
+  
+  .team-member img {
+    width: 100%;
+    border-radius: 50%;
+    height: auto;
+  }
+  
+  .team-member h3 {
+    font-size: 24px;
+    margin: 10px 0 5px;
+  }
+  
+  .team-member p {
+    font-size: 18px;
+    color: #4CAF50;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
